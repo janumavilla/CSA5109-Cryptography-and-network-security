@@ -6,7 +6,7 @@ EXP 2:
 
 ![encryption](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/e4438b54-bcf0-4309-acbc-a8af8e37987e)
 
-EXP 3:
+EXP 7:
 
 ![plain text](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/69bbf00b-ef7c-42b9-b54d-98991e78a83b)
 
