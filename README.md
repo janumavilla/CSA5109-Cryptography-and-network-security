@@ -10,4 +10,9 @@ EXP 3:
 
 ![plain text](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/69bbf00b-ef7c-42b9-b54d-98991e78a83b)
 
+EXP 4:
+
+![PT 109](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/9c940e0e-325f-4ec5-86c5-c0a4b922ae5e)
+
+
 
