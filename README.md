@@ -26,6 +26,11 @@ EXP 11:
 
 ![encrypting](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/8295e4a0-c2c8-4809-8bff-fc2855b9ac06)
 
+EXP 13:
+
+![vigenere cipher](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/714ba75f-f6b8-4854-978e-984606e407bd)
+
+
 
 
 
