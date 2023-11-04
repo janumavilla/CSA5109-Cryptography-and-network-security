@@ -22,6 +22,11 @@ EXP 10:
 
 ![plaintext](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/f048b10c-1b62-42b2-ae9f-84ae9887c35c)
 
+EXP 11:
+
+![encrypting](https://github.com/janumavilla/CSA5109-Cryptography-and-network-security/assets/112294762/8295e4a0-c2c8-4809-8bff-fc2855b9ac06)
+
+
 
 
 
